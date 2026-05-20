@@ -51,7 +51,7 @@ public class VariablesAndArrays {
     public String[] declareStringArray() {
 
         // Tu código aquí
-         String[] Nombres={"Ana", "Luis", "Marta"};
+         String[] Nombres={"Jose", "Luis", "Marta"};
         // Sustituye new String[0] por la variable 'names'
         return Nombres;
     }
